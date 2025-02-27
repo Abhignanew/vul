@@ -2,8 +2,8 @@
     "name": "vulnerable-app",
     "version": "1.0.0",
     "dependencies": {
-      "lodash": "4.17.0",  // Old version with vulnerabilities
-      "express": "4.0.0"   // Known security issues
+      "lodash": "4.17.0",  
+      "express": "4.0.0"   
     }
   }
   
